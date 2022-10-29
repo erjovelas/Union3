@@ -1,0 +1,33 @@
+h4{
+    color:blue;
+    }
+p{
+    color: aqua;
+    font-style: italic;
+}
+h1{
+    color: coral;
+    background-color: blueviolet;
+    font-size: 50px;
+    font-style :initial;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h3{
+    color:greenyellow;
+}
+#color-rojo{
+    color:lightcoral;
+}
+.viernes{
+    color:darkorange
+}
+body{
+    background-image: url(https://1.bp.blogspot.com/-RAGg3vKxNH4/YaSYi8DKqGI/AAAAAAABKv4/SvHUlbc0ytUW8PfAFMQ1MQb6NxogrSLFgCLcBGAsYHQ/s2048/chicago%2Bpd%2Bnueva%2Btemporada.jpg);
+    background-repeat: no-repeat;
+    background-size: 2000px;
+}
+.Autor{
+    color:fuchsia;
+    background-color:darksalmon;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
